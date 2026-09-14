@@ -1,0 +1,74 @@
+{
+  "21": {
+    "type": "options",
+    "paths": [
+      "quiz_images/Q21_1.jpg",
+      "quiz_images/Q21_2.jpg",
+      "quiz_images/Q21_3.jpg",
+      "quiz_images/Q21_4.jpg"
+    ]
+  },
+  "209": {
+    "type": "options",
+    "paths": [
+      "quiz_images/Q209_1.jpg",
+      "quiz_images/Q209_2.jpg",
+      "quiz_images/Q209_3.jpg",
+      "quiz_images/Q209_4.jpg"
+    ]
+  },
+  "226": {
+    "type": "options",
+    "paths": [
+      "quiz_images/Q226_1.jpg",
+      "quiz_images/Q226_2.jpg",
+      "quiz_images/Q226_3.jpg",
+      "quiz_images/Q226_4.jpg"
+    ]
+  },
+  "55": {
+    "type": "main",
+    "path": "quiz_images/Q55.jpg"
+  },
+  "70": {
+    "type": "main",
+    "path": "quiz_images/Q70.jpg"
+  },
+  "176": {
+    "type": "main",
+    "path": "quiz_images/Q176.jpg"
+  },
+  "181": {
+    "type": "main",
+    "path": "quiz_images/Q181.jpg"
+  },
+  "187": {
+    "type": "main",
+    "path": "quiz_images/Q187.jpg"
+  },
+  "216": {
+    "type": "main",
+    "path": "quiz_images/Q216.jpg"
+  },
+  "235": {
+    "type": "main",
+    "path": "quiz_images/Q235.jpg"
+  },
+  "130": {
+    "type": "main",
+    "path": "quiz_images/Q130.jpg"
+  },
+  "B1": {
+    "type": "options",
+    "paths": [
+      "quiz_images/B1_1.jpg",
+      "quiz_images/B1_2.jpg",
+      "quiz_images/B1_3.jpg",
+      "quiz_images/B1_4.jpg"
+    ]
+  },
+  "B8": {
+    "type": "main",
+    "path": "quiz_images/B8.jpg"
+  }
+}
